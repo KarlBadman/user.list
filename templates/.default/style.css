@@ -1,0 +1,13 @@
+.user_list_block {
+    margin: 0 auto;
+    max-width: 1240px;
+    padding: 20px 0px;
+}
+
+.user_list_table {
+    margin: 10px 0px;
+}
+
+.user_list_table .str {
+    margin: 10px 0px;
+}
